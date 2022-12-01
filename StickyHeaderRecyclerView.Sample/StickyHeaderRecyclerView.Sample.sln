@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickyHeaderRecyclerView.Sample", "StickyHeaderRecyclerView.Sample.csproj", "{089F0707-D237-4156-9450-B4649075DABA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JStickyHeaderRecyclerView.Sample", "JStickyHeaderRecyclerView.Sample.csproj", "{089F0707-D237-4156-9450-B4649075DABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickyHeaderRecylerView", "..\StickyHeaderRecylerView\StickyHeaderRecylerView.csproj", "{EEE10ABF-62F9-44DC-AE82-6864E8B8C9D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JStickyHeaderRecylerView.Android", "..\StickyHeaderRecylerView\JStickyHeaderRecylerView.Android.csproj", "{EEE10ABF-62F9-44DC-AE82-6864E8B8C9D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
